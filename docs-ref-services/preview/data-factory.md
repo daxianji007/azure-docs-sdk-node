@@ -1,12 +1,12 @@
 ---
-ms.author: jeffish
+ms.topic: reference
 title: Azure Data Factory SDK for JavaScript
-ms.data: 10/25/2022
 description: Reference for Azure Data Factory SDK for JavaScript
+ms.author: jeffish
+author: xirzec
+ms.data: 10/31/2022
 ms.devlang: javascript
 ms.service: datafactory
-ms.topic: reference
-author: xirzec
 ---
 # Azure Data Factory SDK for JavaScript - preview
 

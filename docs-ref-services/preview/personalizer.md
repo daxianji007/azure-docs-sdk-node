@@ -1,12 +1,12 @@
 ---
-ms.author: sharathm
+ms.topic: reference
 title: Azure Personalizer SDK for JavaScript
-ms.data: 10/25/2022
 description: Reference for Azure Personalizer SDK for JavaScript
+ms.author: sharathm
+author: sharathmalladi
+ms.data: 10/31/2022
 ms.devlang: javascript
 ms.service: personalizer
-ms.topic: reference
-author: sharathmalladi
 ---
 # Azure Personalizer SDK for JavaScript - preview
 

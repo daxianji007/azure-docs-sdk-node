@@ -1,12 +1,12 @@
 ---
-ms.author: jeffish
+ms.topic: reference
 title: Azure HDInsight SDK for JavaScript
-ms.data: 10/25/2022
 description: Reference for Azure HDInsight SDK for JavaScript
+ms.author: jeffish
+author: xirzec
+ms.data: 10/31/2022
 ms.devlang: javascript
 ms.service: hdinsight
-ms.topic: reference
-author: xirzec
 ms.date: 06/15/2022
 ---
 # Azure HDInsight Modules for JavaScript
